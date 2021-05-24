@@ -19,6 +19,6 @@ MAIN MATHEMATICAL OPERATION :
 • Dark Theme.
 • Smooth UI Design.
 
-![vertical calc -  resized](https://user-images.githubusercontent.com/77734651/119343840-98e1c480-bcb4-11eb-9f04-5145ab2cb384.jpg)
+![vertical calc -  resized](https://user-images.githubusercontent.com/77734651/119344200-03930000-bcb5-11eb-9aee-e7b06ae5b27e.jpg)
 ![landscape calc sized](https://user-images.githubusercontent.com/77734651/119343859-9bdcb500-bcb4-11eb-9c50-04b231c833b4.png)
 
