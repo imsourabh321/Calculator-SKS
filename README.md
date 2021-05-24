@@ -5,7 +5,6 @@ This a Scientific Calculator App which performs many mathematical operations.
 
 
      Calculator provides simple and scientific functions performance with a seamless and dark UI design.
-==============================================================================================================
 
 -> Perform basic calculations such as addition, subtraction, multiplications and divisions.
 
@@ -15,7 +14,6 @@ This a Scientific Calculator App which performs many mathematical operations.
 
 
       MAIN MATHEMATICAL OPERATION :
-=========================================
 
 • basic functions such as addition, subtraction, multiplication, and division.
 
@@ -36,6 +34,9 @@ This a Scientific Calculator App which performs many mathematical operations.
 • Dark Theme.
 
 • Smooth UI Design.
+
+
+     LOOK UP :
 
 ![vertical calc -  resized](https://user-images.githubusercontent.com/77734651/119344200-03930000-bcb5-11eb-9aee-e7b06ae5b27e.jpg)
 ![landscape calc sized](https://user-images.githubusercontent.com/77734651/119343859-9bdcb500-bcb4-11eb-9c50-04b231c833b4.png)
