@@ -9,6 +9,7 @@ Calculator provides simple and scientific functions performance with a seamless 
 
 MAIN MATHEMATICAL OPERATION :
 • basic functions such as addition, subtraction, multiplication, and division.
+
 • exponents.
 • Logarithms.
 • Sine, cosine, and tangent functions.
